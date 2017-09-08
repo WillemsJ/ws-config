@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring_Cloud/Spring Cloud/Spring Cloud.iml" filepath="$PROJECT_DIR$/Spring_Cloud/Spring Cloud/Spring Cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/ws-config.iml" filepath="$PROJECT_DIR$/ws-config.iml" />
     </modules>
   </component>
